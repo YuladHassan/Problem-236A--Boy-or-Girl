@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int count=0;
+    int count=1000;//changed here for testing purpose
     string name;
     cin>>name;
     sort(name.begin(),name.end());
